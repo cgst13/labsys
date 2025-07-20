@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/labsys/static/css/main.0ff90f9d.css",
-    "main.js": "/labsys/static/js/main.f53740cb.js",
+    "main.js": "/labsys/static/js/main.720c3da0.js",
     "static/js/488.6cdcfec4.chunk.js": "/labsys/static/js/488.6cdcfec4.chunk.js",
     "static/media/logo.png": "/labsys/static/media/logo.d4098b27ee54b08e17d2.png",
     "service-worker.js": "/labsys/service-worker.js",
     "index.html": "/labsys/index.html",
     "main.0ff90f9d.css.map": "/labsys/static/css/main.0ff90f9d.css.map",
-    "main.f53740cb.js.map": "/labsys/static/js/main.f53740cb.js.map",
+    "main.720c3da0.js.map": "/labsys/static/js/main.720c3da0.js.map",
     "488.6cdcfec4.chunk.js.map": "/labsys/static/js/488.6cdcfec4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ff90f9d.css",
-    "static/js/main.f53740cb.js"
+    "static/js/main.720c3da0.js"
   ]
 }
