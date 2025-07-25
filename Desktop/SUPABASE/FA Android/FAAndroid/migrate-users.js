@@ -1,7 +1,7 @@
 const { createClient } = require('@supabase/supabase-js');
 
 // Replace with your Supabase project URL and SERVICE ROLE KEY
-const supabase = createClient('YOUR_SUPABASE_URL', 'YOUR_SERVICE_ROLE_KEY');
+const supabase = createClient('https://rzyrhnupwzppwiudfuxk.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ6eXJobnVwd3pwcHdpdWRmdXhrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MTg4MDk2OSwiZXhwIjoyMDY3NDU2OTY5fQ.s1VHuo13Lk2uTH35eqMBKE7bGfSoJ90r9QPcdjvUPYI');
 
 // Paste your users array here
 const users = [
